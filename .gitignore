@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+
+# Ignorer l'environnement virtuel
+.venv/
+
+# Ignorer les fichiers de configuration de PyCharm
+.idea/
+
+# Ignorer les fichiers de cache Python
+__pycache__/
